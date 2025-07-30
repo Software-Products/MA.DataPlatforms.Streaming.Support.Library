@@ -16,7 +16,7 @@ Copy the following line for installing the python package while replacing all it
 
 ## Usage
 
-Before using the package, you must type:
+Before using the package, you must add the following lines:
 
 ```
 streaming_api_configuration = StreamingApiConfiguration(

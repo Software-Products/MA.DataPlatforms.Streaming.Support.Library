@@ -1,0 +1,72 @@
+SOFTWARE LICENCE AGREEMENT 
+
+This software is a proprietary product of McLaren Applied Limited and is protected by copyright.  You are licensed to use the software, but the title and ownership of the software are retained by McLaren Applied Limited. Any reference to 'we', 'us' etc. is a reference to McLaren Applied Limited and any reference to 'you', 'your' etc is a reference to you, the user of the software.
+ 
+Carefully read this Software Licence Agreement ("Licence") before using the software.  Using the software indicates your acceptance of our terms.  If you do not agree to the terms of this Licence you should, return the software within one week. 
+ 
+Use of this Product 
+
+You are permitted to make one copy of the software for backup or archiving.  You are only allowed to install the software on the number of computers for which you are licensed. You may not reverse engineer, decompile, disassemble, modify, adapt or make error corrections to the software in whole or in part or create derivative works of the software. 
+
+Restrictions
+
+Except as expressly set out in this Licence or as permitted by any local law, you undertake: not to copy the software or documents except where such copying is incidental to normal use of the software, or where it is necessary for the purpose of back-up or operational security; not to permit the software or any part of it to be combined with, or become incorporated in, any other programs (without our express permission); to supervise and control use of the software and ensure that the software is used by your employees in accordance with the terms of this Licence; to include our copyright notice on all entire and partial copies you make of the software on any medium; not to provide or otherwise make available the software in whole or in part (including but not limited to program listings, object and source program listings, object code and source code), in any form to any person other than your employees without prior written consent from us; and to comply with all applicable technology control or export laws and regulations.
+
+You further undertake not to misuse the software or in any way attempt to hack any of the data record by the software which is against the terms of this Licence.
+ 
+Terms 
+
+The License shall continue for as long as you use the software but shall not be transferrable to any third party.  You agree to destroy all copies of the software should you decide to terminate this agreement.  The limitations of our warranty and liability, defined below, will still remain in force after such termination.   
+
+Intellectual Property Rights
+
+You acknowledge that all intellectual property rights in the software anywhere in the world belong to us, that rights in the software are licensed (not sold) to you, and that you have no rights in, or to, the software or any accompanying documentation other than the right to use them in accordance with the terms of this Licence.
+
+You acknowledge that you have no right to have access to the software in source code form.
+ 
+Warranty 
+
+Due to the complexity of software and in line with the usual practices of the software industry, McLaren Applied Limited makes no warranty, representation, promise or guarantee, either express or implied, statutory or otherwise with respect to the software, user documentation or any related technical support including their quality, performance, merchantability or fitness for a particular purpose. 
+ 
+Software Support 
+
+Where the software is a standard product[1], we will offer telephone support for a period of three months after shipment.  Reported faults will be recorded.  We will decide, at our own discretion, if and when a recorded fault will be fixed in future releases.  New releases will not be automatically provided to customers.  The decision to make available a minor release (e.g. V7.3 -> V7.4) to a specific customer will be made at our discretion.  In the case of a major release (e.g. V6 -> V7), there will be an upgrade fee associated with the transaction. 
+ 
+Bespoke software developed under a fixed price contract[2] will only have faults fixed during the agreed commissioning phase.  After this time it shall be considered to be standard software and treated accordingly (see above).  
+ 
+Software developed under an Engineering Assistance Account will not carry any warranty.  Fixing any faults will be considered to be part of the job and will be invoiced as agreed in the Engineering Assistance Account. 
+ 
+Software developed by a design team, contracted by a customer to support one or more projects, will not carry any warranty.  Fixing any faults will be considered to be part of the job and will be done by the dedicated team (as long as it exists) within their agreed working hours. 
+ 
+Liability 
+
+You acknowledge that the software has not been developed to meet your individual requirements, including any particular cybersecurity requirements you might be subject to under law or otherwise, and that it is therefore your responsibility to ensure that the facilities and functions of the software meet your requirements.
+
+McLaren Applied Limited and its associated companies shall not be liable for any damage or loss whatsoever including, without limitation, damages for loss of business or profits, business interruption, loss of business information, or other pecuniary loss, whether direct or indirect, arising out of the use of or inability to use the software even if advised of the possibility of such damages.  In no case shall the liability of McLaren Applied Limited or any associated company exceed the amount paid by you for the software. 
+ 
+This limitation shall apply to the fullest extent permitted by law but shall not apply where such exclusion is expressly prohibited by law.  Nothing in this Agreement shall exclude any liability of McLaren Applied Limited for representations made fraudulently or any written representations signed by an authorised representative of McLaren Applied Limited. 
+
+We will not be liable or responsible for any failure to perform, or delay in performance of, any of our obligations under this Licence that is caused by an event that is beyond our reasonable control.
+ 
+General 
+
+We may terminate this Licence immediately by written notice to you if you commit a material or persistent breach of this Licence which you fail to remedy (if remediable) within 14 days after the service of written notice requiring you to do so. On termination for any reason all rights granted to you under this Licence shall cease,  you must immediately cease all activities authorised by this Licence and  you must immediately and permanently delete or remove the software from all computer equipment in your possession, and immediately destroy or return to us (at our option) all copies of the software in your possession, custody or control and, in the case of destruction, certify to us that you have done so.
+
+We may update the terms of this Licence at any time on notice to you. Your continued use of the software the updated terms shall constitute your acceptance to the terms of this Licence, as varied. If you do not wish to accept the terms of the Licence (as varied) you must immediately stop using and accessing the software.
+
+If any provision or part thereof of this Agreement is found to be unenforceable then such unenforceable provision shall be stricken from this Agreement and the remaining provisions, or parts thereof shall be enforceable in accordance with their terms. 
+ 
+The construction, validity and performance of this Agreement shall be governed by the Laws of England and the parties hereby submit to the non-exclusive jurisdiction of the English courts. 
+ 
+Any person or body that is not a party to this Agreement has no rights under the Contract (Rights of Third Parties) Act 1999 to enforce any term of this Agreement but this shall not affect any right or remedy of a third party which exists or is available apart from under that Act. 
+
+
+3rd Party Licenses: 
+
+Please find a list of third-party libraries we use under this Licence:
+
+https://mclarenappliedtechnologies.zendesk.com/hc/en-us/articles/360017678837-Open-SourceDeclaration 
+ 
+1. A standard software product is one that needs no individual configuration although it may still need a dedicated compilation. Examples are: System Monitor, ATLAS, LMS, PCU3. 
+2. We will only develop software under a fixed price arrangement if both the specification of the functionality and the commissioning process are clearly defined.
+
