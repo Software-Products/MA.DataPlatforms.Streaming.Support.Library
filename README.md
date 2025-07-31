@@ -31,3 +31,6 @@ support_lib_api_factory = SupportLibraryBootstrapper.bootstrap(
 This initialises the library and then gives you a support library factory which you can use to create the support library.
 
 From there, all library calls are similar to those of the .NET Support Library.
+
+## Sample Code
+For sample code, please look at the [Sample Code Repository](https://github.com/mat-docs/MA.DataPlatforms.Streaming.Support.Library.SampleUsage)
